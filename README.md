@@ -31,7 +31,7 @@
 - 상태마다 분리된 함수 구성 (UpdateIdle, UpdateAttack 등)
 - 애니메이션/이벤트/이펙트/사운드 동기화
 - 외부 매니저(콤보/이펙트/사운드 등)와 유연한 연결
-- 
+
 
 🔗 관련 코드:
 - [Character.cpp](./Character.cpp)
