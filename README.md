@@ -2,6 +2,9 @@
 
 # 주요 구현 코드 설명 (Core Implementation Highlights)
 
+![썸네일1](./Thubnail/Thubnail0002.png)
+![썸네일2](./Thubnail/Thubnaill0001.png)  
+
 
 ## 1. FrameEvent_Manager
 **애니메이션 프레임 기반 이벤트 처리 시스템**
