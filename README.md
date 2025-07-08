@@ -1,16 +1,13 @@
 # Dragonball_Highlighted_Code
 
-
 ![썸네일1](./Thumbnail/Thumbnail0002.png)
 ![썸네일2](./Thumbnail/Thumbnail0001.png)  
-
 ##  시연 영상
-- [전체 영상 보기](https://youtu.be/DtVysCjJ9Xc)
 - [하이라이트 (00:00 ~ 2:13)](https://youtu.be/DtVysCjJ9Xc?t=0)
 - [내 파트 (9:37 ~ 16:20)](https://youtu.be/DtVysCjJ9Xc?t=578)
 - [인게임 플레이 (34:51 ~ 40:40)](https://youtu.be/DtVysCjJ9Xc?t=2092)
+- [전체 영상 보기](https://youtu.be/DtVysCjJ9Xc)
   
-
 # 주요 구현 코드 설명 (Core Implementation Highlights)
 
 ## 1. FrameEvent_Manager
