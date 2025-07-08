@@ -1,10 +1,18 @@
 # Dragonball_Highlighted_Code
 
+
+![썸네일1](./Thumbnail/Thumbnail0002.png)
+![썸네일2](./Thumbnail/Thumbnail0001.png)  
+
+##  시연 영상
+- [전체 영상 보기](https://youtu.be/DtVysCjJ9Xc)
+- [하이라이트 (00:00 ~ 2:13)](https://youtu.be/DtVysCjJ9Xc?t=0)
+- [내 파트 (9:37 ~ 16:20)](https://youtu.be/DtVysCjJ9Xc?t=578)
+- [인게임 플레이 (34:51 ~ 40:40)](https://youtu.be/DtVysCjJ9Xc?t=2092)
+- 
+
+
 # 주요 구현 코드 설명 (Core Implementation Highlights)
-
-![썸네일1](./Thubnail/Thubnail0002.png)
-![썸네일2](./Thubnail/Thubnaill0001.png)  
-
 
 ## 1. FrameEvent_Manager
 **애니메이션 프레임 기반 이벤트 처리 시스템**
@@ -52,3 +60,22 @@
 🔗 관련 코드:
 - [AttackObject_CommandGrab.cpp](./AttackObject_CommandGrab.cpp)
 - [AttackObject_CommandGrab.h](./AttackObject_CommandGrab.h)
+
+
+
+
+------
+그 외 시연 영상들
+
+
+2024.02 ~ 2024.03 (3개월)
+  [메이플스토리](https://youtu.be/3Ge3nKeh894)
+
+  
+2024.05 ~ 2024.06 (2개월)
+  [Cat Quest](https://youtu.be/oEqXF39BLMo)
+  
+
+2024.07 ~ 2024.09 (1개월)
+  [동물의 숲](https://youtu.be/DtVysCjJ9Xc)
+
