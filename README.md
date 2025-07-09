@@ -64,14 +64,19 @@
 그 외 시연 영상들
 
 
+![썸네일3](./Thumbnail/Thumbnail0005.png)
+![썸네일4](./Thumbnail/Thumbnail0006.png)
 2024.02 ~ 2024.03 (3개월)
   [메이플스토리](https://youtu.be/3Ge3nKeh894)
 
-  
+
+![썸네일5](./Thumbnail/Thumbnail0007.png)
+![썸네일6](./Thumbnail/Thumbnail0008.png)
 2024.05 ~ 2024.06 (2개월)
   [Cat Quest](https://youtu.be/oEqXF39BLMo)
   
-
+![썸네일7](./Thumbnail/Thumbnail0009.png)
+![썸네일8](./Thumbnail/Thumbnail0010.png)
 2024.07 ~ 2024.09 (1개월)
   [동물의 숲](https://youtu.be/DtVysCjJ9Xc)
 
