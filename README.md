@@ -2,7 +2,13 @@
 
 ![썸네일1](./Thumbnail/Thumbnail0002.png)
 ![썸네일2](./Thumbnail/Thumbnail0001.png)  
-##  시연 영상
+
+
+
+개발 기간:
+5인 팀 프로젝트 2024.10 ~ 2024.11 (2개월)
+
+##  시연 영상 
 - [하이라이트 (00:00 ~ 2:13)](https://youtu.be/DtVysCjJ9Xc?t=0)
 - [내 파트 (9:37 ~ 16:20)](https://youtu.be/DtVysCjJ9Xc?t=578)
 - [인게임 플레이 (34:51 ~ 40:40)](https://youtu.be/DtVysCjJ9Xc?t=2092)
@@ -77,7 +83,7 @@
 ![썸네일3](./Thumbnail/Thumbnail0005.png)
 ![썸네일4](./Thumbnail/Thumbnail0006.png)
 
-2024.02 ~ 2024.03 (3개월)
+개인 프로젝트 2024.02 ~ 2024.03 (3개월)
   [메이플스토리](https://youtu.be/3Ge3nKeh894)
 
 
@@ -91,7 +97,7 @@
 
 
 
-2024.05 ~ 2024.06 (2개월)
+4인 팀 프로젝트 2024.05 ~ 2024.06 (2개월)
   [Cat Quest](https://youtu.be/oEqXF39BLMo)
 
 
@@ -102,6 +108,6 @@
 ![썸네일7](./Thumbnail/Thumbnail0009.png)
 ![썸네일8](./Thumbnail/Thumbnail0010.png)
 
-2024.07 ~ 2024.09 (1개월)
+개인 프로젝트 2024.07 ~ 2024.09 (1개월)
   [동물의 숲](https://youtu.be/DtVysCjJ9Xc)
 
