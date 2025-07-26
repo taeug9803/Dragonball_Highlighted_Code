@@ -108,5 +108,5 @@
 ![썸네일8](./Thumbnail/Thumbnail0010.png)
 
 개인 프로젝트 2024.07 ~ 2024.09 (1개월)
-  [동물의 숲](https://youtu.be/DtVysCjJ9Xc)
+  [동물의 숲](https://www.youtube.com/watch?v=ExCE1IlOOm8)
 
